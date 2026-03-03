@@ -3,9 +3,11 @@
 BS Mathematics Student | STHP Merit Scholar | Pakistan
 
 ## 🔭 Interests
-- Machine Learning & Data Science
-- Algorithms & Theory  
-- Information Security & Cryptography
+- Data Science & Machine Learning  
+- Exploratory Data Analysis (EDA) & Data Visualization  
+- Statistical Modeling & Predictive Analytics  
+- Algorithms & Problem Solving  
+- Model Deployment & MLOps Basics  
 
 ## 🛠️ Skills
 **Languages:** Python · C++  
