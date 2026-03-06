@@ -1,31 +1,30 @@
 # Hi, I'm Ishfaque Ahmed 👋
-
-BS Mathematics Student | STHP Merit Scholar | Pakistan
+**Data Scientist**
 
 ## 🔭 Interests
+
 - Data Science & Machine Learning  
 - Exploratory Data Analysis (EDA) & Data Visualization  
 - Statistical Modeling & Predictive Analytics  
 - Algorithms & Problem Solving  
-- Model Deployment & MLOps Basics  
+- Model Deployment 
 
 ## 🛠️ Skills
+
 **Languages:** Python · C++  
-**ML & Data:** Scikit-learn · Pandas · NumPy · Streamlit · Deep Learning  
-**Math:** Linear Algebra · Graph Theory · Complex Analysis · Optimization  
+**ML & Data:** Scikit-learn · Pandas · NumPy · Scipy · Sympy· Streamlit · Deep Learning  
+**Math:** Statistics · Applied Mathematics · Computational Mathematics · Numerical Analysis · Probability Theory · Mathematical Modeling · Discrete Mathematics 
 **Tools:** Git · LaTeX · Mathematica · Jupyter · Google Colab
 
-## 📌 Featured Projects
-- 🔬 **Metro Network Analysis** — Critical situation identification using complex network theory
-- 📊 **DataForge** — 3-phase ML data pipeline built with Streamlit
-- 📐 **Numerical Differential Equations** — Python implementations of numerical methods
+## 🎓 Background
 
-## 🏆 Achievements
-- STHP Merit Scholarship — Sindh Talent Hunt Program
-- 1st Place — Mathematics Olympiad (Team), STHP 2023
-- 1st Place — Mathematics Competition (Solo), STEAM_FEST 2023
-- PM Youth Laptop Scheme Awardee
+Student at Sukkur IBA University, specializing in Machine Learning, Data Science, and Applied Mathematics. Currently working on projects involving real-world datasets and deployment-ready applications.
 
 ## 📫 Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/ishfaque2090)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:ishfaqueahmed.bsmathf23@iba-suk.edu.pk)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:ishfaqueahmed2090@gmail.com)
+
+---
+
+⭐ If you find my work helpful, please consider giving this repository a star!
