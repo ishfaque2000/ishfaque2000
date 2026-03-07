@@ -13,7 +13,7 @@
 
 **Languages:** Python · C++  
 **ML & Data:** Scikit-learn · Pandas · NumPy · Scipy · Sympy· Streamlit · Deep Learning  
-**Math:** Statistics · Applied Mathematics · Computational Mathematics · Numerical Analysis · Probability Theory · Mathematical Modeling · Discrete Mathematics 
+**Math:** Statistics · Applied Mathematics · Computational Mathematics · Numerical Analysis · Probability Theory · Mathematical Modeling  
 **Tools:** Git · LaTeX · Mathematica · Jupyter · Google Colab
 
 ## 🎓 Background
